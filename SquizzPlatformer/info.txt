@@ -1,0 +1,21 @@
+shield = 90% damage reduction. speed 800 when normal 1200. maxSpeed = 150 normal = 400
+
+
+sword = 50dmg to zombies w no upgrades
+
+hammer = damage increases with speed
+
+
+zombies: 7-10 attack dmg
+
+
+
+notes:
+
+
+
+
+adding item guide:
+1.rextures
+2.player.itemInfo
+3.gamescreen constant item
